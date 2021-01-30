@@ -1,6 +1,6 @@
 # SortAlgorithmsTimeCharter
 This program generates data and creates a chart comparing the execution time of different sort algorithms. Arguments can be passed in with the command line args to test on 
-different sizes and arangements of data. The program generates a .jpeg chart comparing NumberCount vs. SortTime 
+different sizes and arangements of data. The program generates a .jpeg chart comparing NumberCount vs. SortTime as well as a log file containing the sort times for each sort run. This project was completed as an assigment for the Algorithms (COT 3400) at FGCU.
 
 ## Running
 The project is run from the command line with arguments passed in on the command line. Running just the jar will print an example input for the program.
