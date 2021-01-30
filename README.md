@@ -3,6 +3,7 @@ This program generates data and creates a chart comparing the execution time of 
 different sizes and arangements of data. The program generates a .jpeg chart comparing NumberCount vs. SortTime 
 
 ## Running
+The project is run from the command line with arguments passed in on the command line. Running just the jar will print an example input for the program.
 
 ### Example Input
 "java -jar SortAlgorithmsTimeCharter-1.0.jar  -numberCount 10000 100000 1000000 -numberLength 50000 -preSort forward reverse random"
@@ -11,4 +12,5 @@ merge sort and insert sort and then generate a graph comparing the dataSize vs e
 
 ### Example Output
 
-[sortTimesChart.jpeg]
+![Example output sort times comparison chart](SortTimesChart.jpeg)
+
