@@ -11,3 +11,4 @@ merge sort and insert sort and then generate a graph comparing the dataSize vs e
 
 ### Example Output
 
+[sortTimesChart.jpeg]
